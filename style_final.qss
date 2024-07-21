@@ -1,0 +1,290 @@
+/*= Style for Mainwindow START
+==================================================== */
+#MainWindow {
+	background-color: #eaeaea;
+    }
+/*= END
+==================================================== */
+
+/*= Style for full_me_widget START
+==================================================== */
+#full_me_widget {
+		background-color: #1A1C22;
+    }
+#full_me_widget QLabel {
+		color: #F7F7F7
+    }
+
+#full_me_widget QPushButton {
+		border:none;
+		border-radius: 0px;
+		text-align: left;
+		padding: 8px 15 8px 15px;
+		color: #F7F7F7;
+    }
+
+#full_me_widget QPushButton:hover {
+		background-color: #580EF6;
+}
+
+#full_me_widget QPushButton:checked {
+		background-color: #580EF6;
+}
+
+/*= END
+==================================================== */
+
+/*= Style for icon_only_widget START
+==================================================== */
+#icon_only_widget {
+		background-color: #1A1C22;
+		width:50px;
+    }
+
+#icon_only_widget QPushButton, QLabel {
+		height:50px;
+		border:none;
+    }
+
+#icon_only_widget QPushButton:hover {
+		background-color: #580EF6;
+}
+
+#icon_only_widget QPushButton:checked {
+		background-color: #580EF6;
+}
+
+/*= END
+==================================================== */
+
+/*= Style for change_btn START
+==================================================== */
+  #change_btn {
+		padding: 5px;
+		border: none;
+		width: 30px;
+		height: 30px;
+    }
+/*= END
+==================================================== */
+
+#search_btn {
+		border: none;
+		padding: 5px;
+}
+#search_input {
+		background-color: #eaeaea;
+		border: none;
+		padding: 5px 10px;
+}
+#search_input:focus {
+		background-color: #eaeaea;
+}
+#listsort_btn{
+		border: none;
+		padding: 5px;
+}
+#listsort_btn:focus{
+		background-color: #580EF6;
+}
+#locationsort_btn{
+		border: none;
+		padding: 5px;
+}
+#locationsort_btn:focus{
+		background-color: #580EF6;
+}
+/*= Style for home page START
+==================================================== */
+  #home_page {
+		background-color: #eaeaea;
+    }
+#frame_32 {
+	background-color: #fff;
+	border: none;
+	border-radius: 20px;
+}
+#frame_33 {
+	background-color: #fff;
+	border: none;
+	border-radius: 20px;
+}
+#frame_34 {
+	background-color: #fff;
+	border: none;
+	border-radius: 20px;
+}
+#frame_35 {
+	background-color: #fff;
+	border: none;
+	border-radius: 20px;
+}
+#frame_36 {
+	background-color: #fff;
+	border: none;
+	border-radius: 20px;
+}
+/*= END
+==================================================== */
+
+/*= Style for accept page START
+==================================================== */
+#accept_return_page {
+		background-color: #eaeaea;
+    }
+#accept_return_page QPushButton{
+		
+    }
+#frame_6 {
+		background-color: #fff;
+		border-radius: 20px;
+    }
+#frame_13 {
+		background-color: #fff;
+		border-radius: 20px;
+    }
+#frame_22 {
+		background-color: #fff;
+		border-radius: 20px;
+		border: none;
+    }
+#reload_btn{
+		border: none;
+}
+#reload_btn:hover{
+		background-color: #580EF6;
+		border-radius: 20px;
+}
+#accept_btn{
+		border: none;
+		padding: 10px;
+		background-color: #1A1C22;
+		border-radius: 10px;
+		color: #F7F7F7;
+}
+#accept_btn:hover{
+		border: none;
+		padding: 10px;
+		background-color: #580EF6;
+		border-radius: 10px;
+		color: #F7F7F7;
+}
+#clear_accept_db_btn{
+		border: none;
+		padding: 10px;
+		background-color: #1A1C22;
+		border-radius: 10px;
+		color: #F7F7F7;
+}
+#clear_accept_db_btn:hover{
+		border: none;
+		padding: 10px;
+		background-color: #580EF6;
+		border-radius: 10px;
+		color: #F7F7F7;
+}
+#clear_return_db_btn{
+		border: none;
+		padding: 10px;
+		background-color: #1A1C22;
+		border-radius: 10px;
+		color: #F7F7F7;
+}
+#clear_return_db_btn:hover{
+		border: none;
+		padding: 10px;
+		background-color: #580EF6;
+		border-radius: 10px;
+		color: #F7F7F7;
+}
+#return_btn{
+		border: none;
+		padding: 10px;
+		background-color: #1A1C22;
+		border-radius: 10px;
+		color: #F7F7F7;
+}
+#return_btn:hover{
+		border: none;
+		padding: 10px;
+		background-color: #580EF6;
+		border-radius: 10px;
+		color: #F7F7F7;
+}
+#return_status_label{
+	color: rgb(0, 170, 0);
+}
+/*= END
+==================================================== */
+/*= Style for monitor page START
+==================================================== */
+  #monitor_page {
+		background-color: #eaeaea;
+    }
+#frame_42{
+	background-color: #fff;
+	border-radius: 20px;
+}
+#frame_45{
+	background-color: #1A1C22;
+	border-radius: 20px;
+}
+#frame_45 QLabel{
+	color: #F7F7F7;
+}
+#frame_46{
+	background-color: #1A1C22;
+	border-radius: 20px;
+}
+#frame_46 QLabel{
+	color: #F7F7F7;
+}
+#monitor1_btn{
+	border: none;
+	padding: 10px;
+	background-color: #1A1C22;
+	border-radius: 10px;
+	color: #F7F7F7;	
+}
+#monitor1_btn:hover{
+	border: none;
+	padding: 10px;
+	background-color: #580EF6;
+	border-radius: 10px;
+}
+#monitor2_btn{
+	border: none;
+	padding: 10px;
+	background-color: #1A1C22;
+	border-radius: 10px;
+	color: #F7F7F7;	
+}
+#monitor2_btn:hover{
+	border: none;
+	padding: 10px;
+	background-color: #580EF6;
+	border-radius: 10px;
+}
+
+
+/*= END
+==================================================== */
+/*= Style for update status page START
+==================================================== */
+
+#frame_14{
+	border: none;
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+#frame_26{
+	border: none;
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+/*= END
+==================================================== */
